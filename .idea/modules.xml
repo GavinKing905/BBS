@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bbs-common/bbs-common.iml" filepath="$PROJECT_DIR$/bbs-common/bbs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-dao/bbs-dao.iml" filepath="$PROJECT_DIR$/bbs-dao/bbs-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-model/bbs-model.iml" filepath="$PROJECT_DIR$/bbs-model/bbs-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-parent.iml" filepath="$PROJECT_DIR$/bbs-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-service/bbs-service.iml" filepath="$PROJECT_DIR$/bbs-service/bbs-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-website/bbs-website.iml" filepath="$PROJECT_DIR$/bbs-website/bbs-website.iml" />
+    </modules>
+  </component>
+</project>

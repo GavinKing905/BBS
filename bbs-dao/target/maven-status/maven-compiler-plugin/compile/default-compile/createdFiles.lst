@@ -1,0 +1,6 @@
+com\bbs\mapper\AccountsMapper.class
+com\bbs\mapper\TopicsMapper.class
+com\bbs\mapper\NodesMapper.class
+com\bbs\mapper\PictureTopicMapper.class
+com\bbs\mapper\UsersMapper.class
+com\bbs\mapper\CommentsMapper.class
